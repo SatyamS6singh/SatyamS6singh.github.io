@@ -9,6 +9,20 @@
 body {
   background: #E3F2FD;
 }
+h1 {
+  text-align: center;
+  padding-top: 45vh;
+}
+h3{
+  text-align: center;
+  opacity: 0.7;
+  font-size: 14px;
+}
+
+h3 a{
+  text-decoration: none;
+  transition: cubic-bezier(0.19, 1, 0.22, 1) 2s;
+}
 .chatbot-toggler {
   position: fixed;
   bottom: 30px;
